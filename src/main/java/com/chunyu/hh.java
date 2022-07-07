@@ -8,5 +8,6 @@ public class hh {
         System.out.println("我最好2");
         System.out.println("maste");
         System.out.println("hot-fix");
+        System.out.println("push test");
     }
 }
