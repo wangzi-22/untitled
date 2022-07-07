@@ -9,5 +9,6 @@ public class hh {
         System.out.println("maste");
         System.out.println("hot-fix");
         System.out.println("push test");
+       System.out.println("pull test");
     }
 }
