@@ -6,5 +6,6 @@ public class hh {
         System.out.println("我不好");
         System.out.println("我最好");
         System.out.println("我最好2");
+        System.out.println("maste");
     }
 }
